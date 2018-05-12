@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42771'
     url: http://www.gutenberg.org/2009/agents/42771
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44462#How-to-Make-Electrical-MachinesContaining-Full-Directions-for-Making-Electrical-Machines-Indu_
 gutenberg_issued: '2013-12-19'
 gutenberg_type: Text
 identifiers:
